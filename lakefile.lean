@@ -61,6 +61,9 @@ require «doc-gen4» from git "https://github.com/leanprover/doc-gen4" @ "master
 require mathlib from git "https://github.com/leanprover-community/mathlib4" @ "lecopivo/fun_trans"
 require leancolls from git "https://github.com/lecopivo/LeanColls.git" @ "main"
 
+require EuclideanGeometry from git "https://github.com/jjdishere/EG"
+
+
 set_option linter.unusedVariables false
 
 /--
